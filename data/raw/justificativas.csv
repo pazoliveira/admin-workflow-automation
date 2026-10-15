@@ -1,0 +1,4 @@
+id_posto,data,motivo,aceita
+P001,2026-09-18,Atestado médico,sim
+P002,2026-09-30,Licença médica,sim
+P001,2026-09-15,Motivo pessoal,nao
